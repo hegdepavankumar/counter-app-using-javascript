@@ -1,7 +1,6 @@
 # counter-app-using-javascript
 
 Want to check the live project running :- https://hegdepavankumar.github.io/counter-app-using-javascript/counter
-<a href="https://hegdepavankumar.github.io/counter-app-using-javascript/counter" target="_blank">Counter Application</a>
 
 or else click the the git pages hosted link and add the "/counter" at the end o the link....
 
