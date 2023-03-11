@@ -46,7 +46,7 @@ or else click the the git pages hosted link and add the "/counter" at the end o 
 
 # Need Help:
 
-If you have issues while coding this, you can download the source code by clicking on the download button below. Also, do leave your suggestions and feedback in the comments below.
+If you have issues while coding this, you can download the source code by clicking on the download button below. Also, do leave your suggestions and feedback in the Issue section.
 
 
 
