@@ -1,5 +1,11 @@
 # counter-app-using-javascript
 
+
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/counter-app-using-javascript?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/counter-app-using-javascript?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/counter-app-using-javascript?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/counter-app-using-javascript.svg?cache=remove)
+
 # Project Folder Structure:
 
 Now before we start the coding, let us see what the project folder structure looks like. The project folder structure is called Counter. Within this folder, we have three files. First is index.html which is the HTML document. The second is style.css which is a stylesheet. And the last one is the javascript file called script.js.
