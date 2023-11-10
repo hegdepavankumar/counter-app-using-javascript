@@ -1,9 +1,9 @@
 # counter-app-using-javascript
 
 
-![GitHub](https://img.shields.io/github/license/imhegde/counter-app-using-javascript?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/counter-app-using-javascript?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/counter-app-using-javascript?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/counter-app-using-javascript?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/counter-app-using-javascript?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/counter-app-using-javascript?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/counter-app-using-javascript.svg?cache=remove)
 
 # Project Folder Structure:
@@ -39,7 +39,7 @@ Lastly, the function attached to the event listener of btnReset sets the value b
 
 
 
-Want to check the live project running:- https://imhegde.github.io/counter-app-using-javascript/counter
+Want to check the live project running:- https://hegdepavankumar.github.io/counter-app-using-javascript/counter
 
 or else click the git pages hosted link and add the "/counter" at the end of the link...
 
@@ -58,9 +58,9 @@ If you have issues while coding this, you can download the source code by clicki
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK-master)
 
-(https://github.com/imhegde). This Project is Created by:-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 ```
            Hey Everyone Please give me a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forget to fork the repo...
